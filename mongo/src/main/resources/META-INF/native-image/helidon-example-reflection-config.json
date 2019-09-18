@@ -1,0 +1,7 @@
+[
+    {
+        "name": "io.helidon.examples.dbclient.common.Pokemon",
+        "allDeclaredConstructors": true,
+        "allPublicMethods": true
+    }
+]

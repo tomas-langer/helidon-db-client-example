@@ -1,0 +1,22 @@
+[
+    {
+        "name": "io.helidon.examples.dbclient.common.Pokemon",
+        "allDeclaredConstructors": true,
+        "allPublicMethods": true
+    },
+    {
+        "name": "com.mysql.cj.jdbc.Driver",
+        "allDeclaredConstructors": true,
+        "allPublicMethods": true
+    },
+    {
+        "name": "com.mysql.cj.exceptions.WrongArgumentException",
+        "allDeclaredConstructors": true,
+        "allPublicMethods": true
+    },
+    {
+        "name": "com.mysql.cj.exceptions.CJException",
+        "allDeclaredConstructors": true,
+        "allPublicMethods": true
+    }
+]
